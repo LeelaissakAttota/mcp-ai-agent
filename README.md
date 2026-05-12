@@ -226,7 +226,6 @@ User receives response + context preserved
 |---|---|---|
 | IBM Data Science Professional Certificate | IBM | Coursera |
 | IBM Generative AI Professional Certificate | IBM | Coursera |
-| IBM Agentic AI with RAG Certificate | IBM | Coursera |
 | IBM RAG and Agentic AI Professional Certificate | IBM | Coursera |
 
 ---
